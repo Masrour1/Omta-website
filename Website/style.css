@@ -1,0 +1,330 @@
+body{
+    background-color: rgb(191, 118, 0);
+    
+}
+.Header{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: greenyellow;
+}
+.Boxes{
+    text-align: center;
+}
+.BOX1{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+#primary{
+    background: none;
+    border-color: rgb(255, 255, 255);
+    margin-left: 680px;
+    color: azure;
+    box-shadow: 5px 5px 3px 0px;
+    
+}
+:hover#primary{
+    color:rgb(255, 255, 255);
+    background: black;
+    transition: 1s;
+    box-shadow: 5px 5px 3px 0px black;
+}
+:active#primary{
+    color: chartreuse;
+    box-shadow:5px 5px 3px 0px cyan;
+    transition: 0.8s;
+}
+.number{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(12, 92, 29);  
+}
+.pic{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.I1{
+    text-align: center;
+}
+.pix1{
+    margin-left:500px;
+    
+}
+.I2{
+    text-align: center;
+
+}
+.pix2{
+    margin-left: 500px;
+
+}
+.I3{
+    text-align: center;
+}
+.pix3{
+    margin-left: 500px;
+}
+.I4{
+    text-align: center;
+}
+.pix4{
+    margin-left: 500px;
+}
+.I5{
+    text-align: center;
+}
+.pix5{
+    margin-left: 500px;
+}
+.I6{
+    text-align: center;
+}
+.pix6{
+    margin-left: 500px;
+}
+.I7{
+    text-align: center;
+}
+.pix7{
+    margin-left: 500px;
+}
+.I8{
+    text-align: center;
+}
+.pix8{
+    margin-left: 500px;
+}
+.I9{
+    text-align: center;
+}
+.pix9{
+    margin-left: 500px; 
+}
+.I10{
+    text-align: center;
+}
+.pix10{
+    margin-left: 500px;
+}
+.I11{
+    text-align: center;
+}
+.pix11{
+    margin-left: 500px;
+}
+.I12{
+    text-align: center;
+}
+.pix12{
+    margin-left: 500px;
+}
+.I13{
+    text-align: center;
+}
+.pix13{
+    margin-left: 500px;
+}
+.I14{
+    text-align: center;
+}
+.pix14{
+    margin-left: 500px;
+}
+.I15{
+    text-align: center;
+}
+.pix15{
+    margin-left: 500px;
+}
+.I16{
+    text-align: center;
+}
+.pix16{
+    margin-left: 500px;
+}
+.I17{
+    text-align: center;
+}
+.pix17{
+    margin-left: 500px;
+}
+.I18{
+    text-align: center;
+}
+.pix18{
+    margin-left: 500px;
+}
+.I19{
+    text-align: center;
+}
+.pix19{
+    margin-left: 500px;
+}
+.I20{
+    text-align: center;
+}
+.pix20{
+    margin-left: 500px;
+}
+.DOT{
+    color: khaki;
+    text-align: center;
+}
+.ODKS{
+    margin-left: 470px;
+}
+.OSV{
+    margin-left: 470px;
+}
+.OSV1{
+    margin-left: 470px;
+}
+.OKS{
+    margin-left: 470px;
+}
+.OTAÇ{
+    margin-left: 470px;
+}
+.ODTÇ{
+    margin-left: 470px; 
+}
+.I21{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I22{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I23{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I24{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I25{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I26{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.OÇT{
+    margin-left: 470px;   
+}
+.I27{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.ODN{
+    margin-left: 470px;   
+}
+.I28{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.OIB{
+    margin-left: 470px;   
+}
+.I29{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I30{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I31{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.OST{
+    margin-left: 470px;
+}
+.OSTK{
+    margin-left: 470px;
+}
+.OKE{
+    margin-left: 470px;
+}
+.I32{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.I33{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.OPY{
+    margin-left: 470px;
+}
+.OKT{
+    margin-left: 470px;
+}
+.I34{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.ODK{
+    margin-left: 470px;
+}
+.Messy{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.ODFG{
+    margin-left: 470px;
+}
+.I35{
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
+.OM{
+    margin-left: 470px;
+}
+.EX{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 3px;
+}
+.EX1{
+   margin-left: 470px;  
+}
+.EX2{
+    margin-left: 470px; 
+}
+.EX3{
+    margin-left: 470px; 
+}
+.End{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+.end2{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    text-align: center;
+}
